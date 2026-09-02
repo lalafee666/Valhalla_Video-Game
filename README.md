@@ -16,7 +16,3 @@ The goal of the project was to develop and implement the audio system for a vide
 
 ## Documentation
 Project documentation and additional material can be found in the `docs` directory.
-
-
-## Audio and Media
-Audio examples, videos, or links related to the project can be found in the corresponding media directories.
